@@ -1,3 +1,8 @@
 practice
 revise version
+pull and push
+
+<<<<<<< HEAD
 github
+=======
+>>>>>>> b9774ebe34bb209e013bb2eacf64c73a90697fe2
